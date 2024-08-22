@@ -60,7 +60,6 @@ puzzle-solving-game/
 ```bash
 git clone https://github.com/your-username/puzzle-solving-game.git
 cd puzzle-solving-game
-
 ```
 
 - Run the project as:
